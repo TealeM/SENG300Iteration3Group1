@@ -1,0 +1,3 @@
+[submodule "Java_Systems_for_testing/spring-boot"]
+	path = Java_Systems_for_testing/spring-boot
+	url = https://github.com/spring-projects/spring-boot.git
