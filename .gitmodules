@@ -4,3 +4,6 @@
 [submodule "Java_Systems_for_testing/teammates"]
 	path = Java_Systems_for_testing/teammates
 	url = https://github.com/TEAMMATES/teammates.git
+[submodule "Java_Systems_for_testing/apps-android-commons"]
+	path = Java_Systems_for_testing/apps-android-commons
+	url = https://github.com/commons-app/apps-android-commons.git
