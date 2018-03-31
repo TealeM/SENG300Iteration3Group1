@@ -100,3 +100,6 @@
 [submodule "Java_Systems_for_testing/jblas"]
 	path = Java_Systems_for_testing/jblas
 	url = https://github.com/mikiobraun/jblas.git
+[submodule "Java_Systems_for_testing/asciimg"]
+	path = Java_Systems_for_testing/asciimg
+	url = https://github.com/korhner/asciimg.git
