@@ -7,3 +7,6 @@
 [submodule "Java_Systems_for_testing/apps-android-commons"]
 	path = Java_Systems_for_testing/apps-android-commons
 	url = https://github.com/commons-app/apps-android-commons.git
+[submodule "sunrisesunsetlib-java"]
+	path = sunrisesunsetlib-java
+	url = https://github.com/mikereedell/sunrisesunsetlib-java.git
