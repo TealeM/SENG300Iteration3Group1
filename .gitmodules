@@ -34,3 +34,9 @@
 [submodule "Java_Systems_for_testing/Generex"]
 	path = Java_Systems_for_testing/Generex
 	url = https://github.com/mifmif/Generex.git
+[submodule "Java_Systems_for_testing/byte-buddy"]
+	path = Java_Systems_for_testing/byte-buddy
+	url = https://github.com/raphw/byte-buddy.git
+[submodule "Java_Systems_for_testing/JCloisterZone"]
+	path = Java_Systems_for_testing/JCloisterZone
+	url = https://github.com/farin/JCloisterZone.git
