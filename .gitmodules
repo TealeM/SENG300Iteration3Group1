@@ -109,3 +109,6 @@
 [submodule "Java_Systems_for_testing/reflections"]
 	path = Java_Systems_for_testing/reflections
 	url = https://github.com/ronmamo/reflections.git
+[submodule "Java_Systems_for_testing/java-callgraph"]
+	path = Java_Systems_for_testing/java-callgraph
+	url = https://github.com/gousiosg/java-callgraph.git
