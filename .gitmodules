@@ -28,3 +28,6 @@
 [submodule "Java_Systems_for_testing/classpy"]
 	path = Java_Systems_for_testing/classpy
 	url = https://github.com/zxh0/classpy.git
+[submodule "Java_Systems_for_testing/scribejava"]
+	path = Java_Systems_for_testing/scribejava
+	url = https://github.com/scribejava/scribejava.git
