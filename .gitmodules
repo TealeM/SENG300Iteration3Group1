@@ -31,3 +31,6 @@
 [submodule "Java_Systems_for_testing/scribejava"]
 	path = Java_Systems_for_testing/scribejava
 	url = https://github.com/scribejava/scribejava.git
+[submodule "Java_Systems_for_testing/Generex"]
+	path = Java_Systems_for_testing/Generex
+	url = https://github.com/mifmif/Generex.git
