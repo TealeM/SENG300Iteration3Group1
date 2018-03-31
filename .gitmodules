@@ -97,3 +97,6 @@
 [submodule "Java_Systems_for_testing/JavaVerbalExpressions"]
 	path = Java_Systems_for_testing/JavaVerbalExpressions
 	url = https://github.com/VerbalExpressions/JavaVerbalExpressions.git
+[submodule "Java_Systems_for_testing/jblas"]
+	path = Java_Systems_for_testing/jblas
+	url = https://github.com/mikiobraun/jblas.git
