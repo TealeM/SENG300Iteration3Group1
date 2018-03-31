@@ -106,3 +106,6 @@
 [submodule "Java_Systems_for_testing/XChart"]
 	path = Java_Systems_for_testing/XChart
 	url = https://github.com/timmolter/XChart.git
+[submodule "Java_Systems_for_testing/reflections"]
+	path = Java_Systems_for_testing/reflections
+	url = https://github.com/ronmamo/reflections.git
