@@ -94,3 +94,6 @@
 [submodule "Java_Systems_for_testing/genie"]
 	path = Java_Systems_for_testing/genie
 	url = https://github.com/Netflix/genie.git
+[submodule "Java_Systems_for_testing/JavaVerbalExpressions"]
+	path = Java_Systems_for_testing/JavaVerbalExpressions
+	url = https://github.com/VerbalExpressions/JavaVerbalExpressions.git
