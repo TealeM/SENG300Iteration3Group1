@@ -43,3 +43,6 @@
 [submodule "Java_Systems_for_testing/joauth"]
 	path = Java_Systems_for_testing/joauth
 	url = https://github.com/twitter/joauth.git
+[submodule "Java_Systems_for_testing/javapoet"]
+	path = Java_Systems_for_testing/javapoet
+	url = https://github.com/square/javapoet.git
