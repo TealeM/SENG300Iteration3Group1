@@ -40,3 +40,6 @@
 [submodule "Java_Systems_for_testing/JCloisterZone"]
 	path = Java_Systems_for_testing/JCloisterZone
 	url = https://github.com/farin/JCloisterZone.git
+[submodule "Java_Systems_for_testing/joauth"]
+	path = Java_Systems_for_testing/joauth
+	url = https://github.com/twitter/joauth.git
