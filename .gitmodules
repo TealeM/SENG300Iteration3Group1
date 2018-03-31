@@ -46,3 +46,51 @@
 [submodule "Java_Systems_for_testing/javapoet"]
 	path = Java_Systems_for_testing/javapoet
 	url = https://github.com/square/javapoet.git
+[submodule "Java_Systems_for_testing/99-problems"]
+	path = Java_Systems_for_testing/99-problems
+	url = https://github.com/shekhargulati/99-problems.git
+[submodule "Java_Systems_for_testing/java8-the-missing-tutorial"]
+	path = Java_Systems_for_testing/java8-the-missing-tutorial
+	url = https://github.com/shekhargulati/java8-the-missing-tutorial.git
+[submodule "Java_Systems_for_testing/30-seconds-of-java"]
+	path = Java_Systems_for_testing/30-seconds-of-java
+	url = https://github.com/shekhargulati/30-seconds-of-java.git
+[submodule "Java_Systems_for_testing/strman-java"]
+	path = Java_Systems_for_testing/strman-java
+	url = https://github.com/shekhargulati/strman-java.git
+[submodule "Java_Systems_for_testing/tablesaw"]
+	path = Java_Systems_for_testing/tablesaw
+	url = https://github.com/jtablesaw/tablesaw.git
+[submodule "Java_Systems_for_testing/gumshoe"]
+	path = Java_Systems_for_testing/gumshoe
+	url = https://github.com/worstcase/gumshoe.git
+[submodule "Java_Systems_for_testing/SoundSea"]
+	path = Java_Systems_for_testing/SoundSea
+	url = https://github.com/sacert/SoundSea.git
+[submodule "Java_Systems_for_testing/leakcanary"]
+	path = Java_Systems_for_testing/leakcanary
+	url = https://github.com/square/leakcanary.git
+[submodule "Java_Systems_for_testing/picasso"]
+	path = Java_Systems_for_testing/picasso
+	url = https://github.com/square/picasso.git
+[submodule "Java_Systems_for_testing/moshi"]
+	path = Java_Systems_for_testing/moshi
+	url = https://github.com/square/moshi.git
+[submodule "Java_Systems_for_testing/automon"]
+	path = Java_Systems_for_testing/automon
+	url = https://github.com/stevensouza/automon.git
+[submodule "Java_Systems_for_testing/jvm-tools"]
+	path = Java_Systems_for_testing/jvm-tools
+	url = https://github.com/aragozin/jvm-tools.git
+[submodule "Java_Systems_for_testing/BowlerStudio"]
+	path = Java_Systems_for_testing/BowlerStudio
+	url = https://github.com/CommonWealthRobotics/BowlerStudio.git
+[submodule "Java_Systems_for_testing/Java"]
+	path = Java_Systems_for_testing/Java
+	url = https://github.com/TheAlgorithms/Java.git
+[submodule "Java_Systems_for_testing/concurrency-limits"]
+	path = Java_Systems_for_testing/concurrency-limits
+	url = https://github.com/Netflix/concurrency-limits.git
+[submodule "Java_Systems_for_testing/genie"]
+	path = Java_Systems_for_testing/genie
+	url = https://github.com/Netflix/genie.git
