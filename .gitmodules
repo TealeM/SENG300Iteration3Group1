@@ -19,3 +19,6 @@
 [submodule "Java_Systems_for_testing/TarsosDSP"]
 	path = Java_Systems_for_testing/TarsosDSP
 	url = https://github.com/JorenSix/TarsosDSP.git
+[submodule "Java_Systems_for_testing/sphinx4"]
+	path = Java_Systems_for_testing/sphinx4
+	url = https://github.com/cmusphinx/sphinx4.git
