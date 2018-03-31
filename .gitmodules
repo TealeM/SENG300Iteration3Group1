@@ -25,3 +25,6 @@
 [submodule "Java_Systems_for_testing/google-maps-services-java"]
 	path = Java_Systems_for_testing/google-maps-services-java
 	url = https://github.com/googlemaps/google-maps-services-java.git
+[submodule "Java_Systems_for_testing/classpy"]
+	path = Java_Systems_for_testing/classpy
+	url = https://github.com/zxh0/classpy.git
