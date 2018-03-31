@@ -103,3 +103,6 @@
 [submodule "Java_Systems_for_testing/asciimg"]
 	path = Java_Systems_for_testing/asciimg
 	url = https://github.com/korhner/asciimg.git
+[submodule "Java_Systems_for_testing/XChart"]
+	path = Java_Systems_for_testing/XChart
+	url = https://github.com/timmolter/XChart.git
