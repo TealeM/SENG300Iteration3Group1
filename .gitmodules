@@ -16,3 +16,6 @@
 [submodule "Java_Systems_for_testing/sunrisesunsetlib-java"]
 	path = Java_Systems_for_testing/sunrisesunsetlib-java
 	url = https://github.com/mikereedell/sunrisesunsetlib-java.git
+[submodule "Java_Systems_for_testing/TarsosDSP"]
+	path = Java_Systems_for_testing/TarsosDSP
+	url = https://github.com/JorenSix/TarsosDSP.git
