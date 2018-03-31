@@ -22,3 +22,6 @@
 [submodule "Java_Systems_for_testing/sphinx4"]
 	path = Java_Systems_for_testing/sphinx4
 	url = https://github.com/cmusphinx/sphinx4.git
+[submodule "Java_Systems_for_testing/google-maps-services-java"]
+	path = Java_Systems_for_testing/google-maps-services-java
+	url = https://github.com/googlemaps/google-maps-services-java.git
