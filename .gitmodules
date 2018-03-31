@@ -10,3 +10,9 @@
 [submodule "sunrisesunsetlib-java"]
 	path = sunrisesunsetlib-java
 	url = https://github.com/mikereedell/sunrisesunsetlib-java.git
+[submodule "java_Systems_for_testing/sunrisesunsetlib-java"]
+	path = java_Systems_for_testing/sunrisesunsetlib-java
+	url = https://github.com/mikereedell/sunrisesunsetlib-java.git
+[submodule "Java_Systems_for_testing/sunrisesunsetlib-java"]
+	path = Java_Systems_for_testing/sunrisesunsetlib-java
+	url = https://github.com/mikereedell/sunrisesunsetlib-java.git
