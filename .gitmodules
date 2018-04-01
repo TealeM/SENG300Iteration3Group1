@@ -112,3 +112,6 @@
 [submodule "Java_Systems_for_testing/java-callgraph"]
 	path = Java_Systems_for_testing/java-callgraph
 	url = https://github.com/gousiosg/java-callgraph.git
+[submodule "Java_Systems_for_testing/cognitivej"]
+	path = Java_Systems_for_testing/cognitivej
+	url = https://github.com/CognitiveJ/cognitivej.git
