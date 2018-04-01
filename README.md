@@ -19,5 +19,5 @@ Code from Jacky's last group: https://github.com/jickay/Group-Project-2
 ###### Sat Apr 7 - Sun Apr 9
 - [ ] Write and finalize report based on other teams' data
 
-Group # 1:
+### Group members
 Zahra Al Ibrahim, Nathan Cruz, Zachary Hull, Zachary Kahn, Ga Hyung Kim, Anastasiya Lazarenko, Teale Masrani, Kyle Storrier, Masroor Syed, Jacky Tang
