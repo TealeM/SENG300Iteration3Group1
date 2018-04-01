@@ -115,3 +115,6 @@
 [submodule "Java_Systems_for_testing/cognitivej"]
 	path = Java_Systems_for_testing/cognitivej
 	url = https://github.com/CognitiveJ/cognitivej.git
+[submodule "Java_Systems_for_testing/language-detector"]
+	path = Java_Systems_for_testing/language-detector
+	url = https://github.com/optimaize/language-detector.git
