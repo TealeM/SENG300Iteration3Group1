@@ -1,0 +1,27 @@
+Kahn Java System files:
+
+logback-extensions- Objects: 1509
+
+javassit - Objects: 11584
+
+californium - Objects: 28041
+
+easymock - Objects: 17813
+
+hibernate-ogm - Objects: 74595
+
+objenesis - 7587
+
+karaf - Objects: 281655
+
+stitch-examples - Objects: 5621
+
+react-native-node - Objects: 380
+
+data-transfer-project - Objects: 15888
+
+
+
+
+
+

@@ -124,3 +124,33 @@
 [submodule "Java_Systems_for_testing/tape"]
 	path = Java_Systems_for_testing/tape
 	url = https://github.com/square/tape.git
+[submodule "Java_Systems_for_testing/logback-extensions"]
+	path = Java_Systems_for_testing/logback-extensions
+	url = https://github.com/qos-ch/logback-extensions.git
+[submodule "Java_Systems_for_testing/javassist"]
+	path = Java_Systems_for_testing/javassist
+	url = https://github.com/jboss-javassist/javassist.git
+[submodule "Java_Systems_for_testing/californium"]
+	path = Java_Systems_for_testing/californium
+	url = https://github.com/eclipse/californium.git
+[submodule "Java_Systems_for_testing/easymock"]
+	path = Java_Systems_for_testing/easymock
+	url = https://github.com/easymock/easymock.git
+[submodule "Java_Systems_for_testing/hibernate-ogm"]
+	path = Java_Systems_for_testing/hibernate-ogm
+	url = https://github.com/hibernate/hibernate-ogm.git
+[submodule "Java_Systems_for_testing/objenesis"]
+	path = Java_Systems_for_testing/objenesis
+	url = https://github.com/easymock/objenesis.git
+[submodule "Java_Systems_for_testing/karaf"]
+	path = Java_Systems_for_testing/karaf
+	url = https://github.com/apache/karaf.git
+[submodule "Java_Systems_for_testing/stitch-examples"]
+	path = Java_Systems_for_testing/stitch-examples
+	url = https://github.com/mongodb/stitch-examples.git
+[submodule "Java_Systems_for_testing/react-native-node"]
+	path = Java_Systems_for_testing/react-native-node
+	url = https://github.com/staltz/react-native-node.git
+[submodule "Java_Systems_for_testing/data-transfer-project"]
+	path = Java_Systems_for_testing/data-transfer-project
+	url = https://github.com/google/data-transfer-project.git
