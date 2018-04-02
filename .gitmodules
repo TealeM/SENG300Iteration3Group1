@@ -118,3 +118,6 @@
 [submodule "Java_Systems_for_testing/language-detector"]
 	path = Java_Systems_for_testing/language-detector
 	url = https://github.com/optimaize/language-detector.git
+[submodule "Java_Systems_for_testing/simplenlg"]
+	path = Java_Systems_for_testing/simplenlg
+	url = https://github.com/simplenlg/simplenlg.git
