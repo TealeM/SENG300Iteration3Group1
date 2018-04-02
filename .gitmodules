@@ -121,3 +121,6 @@
 [submodule "Java_Systems_for_testing/simplenlg"]
 	path = Java_Systems_for_testing/simplenlg
 	url = https://github.com/simplenlg/simplenlg.git
+[submodule "Java_Systems_for_testing/tape"]
+	path = Java_Systems_for_testing/tape
+	url = https://github.com/square/tape.git
