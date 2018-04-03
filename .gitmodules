@@ -154,3 +154,6 @@
 [submodule "Java_Systems_for_testing/data-transfer-project"]
 	path = Java_Systems_for_testing/data-transfer-project
 	url = https://github.com/google/data-transfer-project.git
+[submodule "Java_Systems_for_testing/memory-game"]
+	path = Java_Systems_for_testing/memory-game
+	url = https://github.com/sromku/memory-game.git
