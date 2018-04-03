@@ -172,3 +172,6 @@
 [submodule "Java_Systems_for_testing/qart4j"]
 	path = Java_Systems_for_testing/qart4j
 	url = https://github.com/dieforfree/qart4j.git
+[submodule "Java_Systems_for_testing/VISNode"]
+	path = Java_Systems_for_testing/VISNode
+	url = https://github.com/VISNode/VISNode.git
