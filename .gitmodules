@@ -160,3 +160,6 @@
 [submodule "Java_Systems_for_testing/pixel-dungeon"]
 	path = Java_Systems_for_testing/pixel-dungeon
 	url = https://github.com/watabou/pixel-dungeon.git
+[submodule "Java_Systems_for_testing/ChessOOP"]
+	path = Java_Systems_for_testing/ChessOOP
+	url = https://github.com/ashish1294/ChessOOP.git
