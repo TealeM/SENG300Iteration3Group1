@@ -181,3 +181,6 @@
 [submodule "Java_Systems_for_testing/la4j"]
 	path = Java_Systems_for_testing/la4j
 	url = https://github.com/vkostyukov/la4j.git
+[submodule "Java_Systems_for_testing/uCrop"]
+	path = Java_Systems_for_testing/uCrop
+	url = https://github.com/Yalantis/uCrop.git
