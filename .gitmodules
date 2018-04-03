@@ -190,3 +190,6 @@
 [submodule "Java_Systems_for_testing/truth"]
 	path = Java_Systems_for_testing/truth
 	url = https://github.com/google/truth.git
+[submodule "Java_Systems_for_testing/JSAT"]
+	path = Java_Systems_for_testing/JSAT
+	url = https://github.com/EdwardRaff/JSAT.git
