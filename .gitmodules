@@ -163,3 +163,6 @@
 [submodule "Java_Systems_for_testing/ChessOOP"]
 	path = Java_Systems_for_testing/ChessOOP
 	url = https://github.com/ashish1294/ChessOOP.git
+[submodule "Java_Systems_for_testing/zxing"]
+	path = Java_Systems_for_testing/zxing
+	url = https://github.com/zxing/zxing.git
