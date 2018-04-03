@@ -169,3 +169,6 @@
 [submodule "Java_Systems_for_testing/javaparser"]
 	path = Java_Systems_for_testing/javaparser
 	url = https://github.com/javaparser/javaparser.git
+[submodule "Java_Systems_for_testing/qart4j"]
+	path = Java_Systems_for_testing/qart4j
+	url = https://github.com/dieforfree/qart4j.git
