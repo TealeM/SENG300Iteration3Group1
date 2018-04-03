@@ -166,3 +166,6 @@
 [submodule "Java_Systems_for_testing/zxing"]
 	path = Java_Systems_for_testing/zxing
 	url = https://github.com/zxing/zxing.git
+[submodule "Java_Systems_for_testing/javaparser"]
+	path = Java_Systems_for_testing/javaparser
+	url = https://github.com/javaparser/javaparser.git
