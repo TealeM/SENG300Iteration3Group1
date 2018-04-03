@@ -4,6 +4,9 @@ SENG300 Group Assignment - Iteration three.
 ### Iteration 2 source code (Kyle has another repo)
 Code from Jacky's last group: https://github.com/jickay/Group-Project-2
 
+### Code
+Link to repo with code: https://github.com/kimgahyung/SENG300-iteration3.git
+
 ### Schedule
 ###### Sun Apr 1 - Wed Apr 4
 - [ ] Complete code modifications
