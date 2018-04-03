@@ -193,3 +193,6 @@
 [submodule "Java_Systems_for_testing/JSAT"]
 	path = Java_Systems_for_testing/JSAT
 	url = https://github.com/EdwardRaff/JSAT.git
+[submodule "Java_Systems_for_testing/apk-parser"]
+	path = Java_Systems_for_testing/apk-parser
+	url = https://github.com/hsiafan/apk-parser.git
