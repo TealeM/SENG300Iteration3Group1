@@ -175,3 +175,6 @@
 [submodule "Java_Systems_for_testing/VISNode"]
 	path = Java_Systems_for_testing/VISNode
 	url = https://github.com/VISNode/VISNode.git
+[submodule "Java_Systems_for_testing/uncommons-maths"]
+	path = Java_Systems_for_testing/uncommons-maths
+	url = https://github.com/dwdyer/uncommons-maths.git
