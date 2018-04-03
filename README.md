@@ -1,8 +1,7 @@
 # SENG300Iteration3Group1
 SENG300 Group Assignment - Iteration three.
 
-### Iteration 2 source code (Kyle has another repo)
-Code from Jacky's last group: https://github.com/jickay/Group-Project-2
+### Iteration 2 source code (Using Kyle's in another repo)
 
 ### Code
 Link to repo with code: https://github.com/kimgahyung/SENG300-iteration3.git
