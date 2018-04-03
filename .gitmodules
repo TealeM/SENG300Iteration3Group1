@@ -187,3 +187,6 @@
 [submodule "Java_Systems_for_testing/WilliamChart"]
 	path = Java_Systems_for_testing/WilliamChart
 	url = https://github.com/diogobernardino/WilliamChart.git
+[submodule "Java_Systems_for_testing/truth"]
+	path = Java_Systems_for_testing/truth
+	url = https://github.com/google/truth.git
