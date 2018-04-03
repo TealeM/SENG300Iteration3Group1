@@ -184,3 +184,6 @@
 [submodule "Java_Systems_for_testing/uCrop"]
 	path = Java_Systems_for_testing/uCrop
 	url = https://github.com/Yalantis/uCrop.git
+[submodule "Java_Systems_for_testing/WilliamChart"]
+	path = Java_Systems_for_testing/WilliamChart
+	url = https://github.com/diogobernardino/WilliamChart.git
