@@ -157,3 +157,6 @@
 [submodule "Java_Systems_for_testing/memory-game"]
 	path = Java_Systems_for_testing/memory-game
 	url = https://github.com/sromku/memory-game.git
+[submodule "Java_Systems_for_testing/pixel-dungeon"]
+	path = Java_Systems_for_testing/pixel-dungeon
+	url = https://github.com/watabou/pixel-dungeon.git
