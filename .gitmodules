@@ -178,3 +178,6 @@
 [submodule "Java_Systems_for_testing/uncommons-maths"]
 	path = Java_Systems_for_testing/uncommons-maths
 	url = https://github.com/dwdyer/uncommons-maths.git
+[submodule "Java_Systems_for_testing/la4j"]
+	path = Java_Systems_for_testing/la4j
+	url = https://github.com/vkostyukov/la4j.git
