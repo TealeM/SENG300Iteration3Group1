@@ -196,3 +196,63 @@
 [submodule "Java_Systems_for_testing/apk-parser"]
 	path = Java_Systems_for_testing/apk-parser
 	url = https://github.com/hsiafan/apk-parser.git
+[submodule "Java_Systems_for_testing/SmallTalk"]
+	path = Java_Systems_for_testing/SmallTalk
+	url = https://github.com/rCollaborateCode/SmallTalk.git
+[submodule "Java_Systems_for_testing/rmq"]
+	path = Java_Systems_for_testing/rmq
+	url = https://github.com/xetorthio/rmq.git
+[submodule "Java_Systems_for_testing/MSolver"]
+	path = Java_Systems_for_testing/MSolver
+	url = https://github.com/luckytoilet/MSolver.git
+[submodule "Java_Systems_for_testing/autolink-java"]
+	path = Java_Systems_for_testing/autolink-java
+	url = https://github.com/robinst/autolink-java.git
+[submodule "Java_Systems_for_testing/java-uniqueid"]
+	path = Java_Systems_for_testing/java-uniqueid
+	url = https://github.com/LableOrg/java-uniqueid.git
+[submodule "Java_Systems_for_testing/DKIM-for-JavaMail"]
+	path = Java_Systems_for_testing/DKIM-for-JavaMail
+	url = https://github.com/usrflo/DKIM-for-JavaMail.git
+[submodule "Java_Systems_for_testing/Play-2.0-Java-MongoDb-Jackson-exemple"]
+	path = Java_Systems_for_testing/Play-2.0-Java-MongoDb-Jackson-exemple
+	url = https://github.com/Mironor/Play-2.0-Java-MongoDb-Jackson-exemple.git
+[submodule "Java_Systems_for_testing/dropincc.java"]
+	path = Java_Systems_for_testing/dropincc.java
+	url = https://github.com/pfmiles/dropincc.java.git
+[submodule "Java_Systems_for_testing/cue.language"]
+	path = Java_Systems_for_testing/cue.language
+	url = https://github.com/vcl-xx/cue.language.git
+[submodule "Java_Systems_for_testing/continuations-java"]
+	path = Java_Systems_for_testing/continuations-java
+	url = https://github.com/dvliman/continuations-java.git
+[submodule "Java_Systems_for_testing/Two"]
+	path = Java_Systems_for_testing/Two
+	url = https://github.com/swixml/Two.git
+[submodule "Java_Systems_for_testing/tradukisto"]
+	path = Java_Systems_for_testing/tradukisto
+	url = https://github.com/allegro/tradukisto.git
+[submodule "Java_Systems_for_testing/haversine"]
+	path = Java_Systems_for_testing/haversine
+	url = https://github.com/jasonwinn/haversine.git
+[submodule "Java_Systems_for_testing/JPty"]
+	path = Java_Systems_for_testing/JPty
+	url = https://github.com/jawi/JPty.git
+[submodule "Java_Systems_for_testing/SmallGame"]
+	path = Java_Systems_for_testing/SmallGame
+	url = https://github.com/ygsama/SmallGame.git
+[submodule "Java_Systems_for_testing/jwordsplitter"]
+	path = Java_Systems_for_testing/jwordsplitter
+	url = https://github.com/danielnaber/jwordsplitter.git
+[submodule "Java_Systems_for_testing/ScreenshotMaker"]
+	path = Java_Systems_for_testing/ScreenshotMaker
+	url = https://github.com/TheAndroidMaster/ScreenshotMaker.git
+[submodule "Java_Systems_for_testing/JavaTimeLab"]
+	path = Java_Systems_for_testing/JavaTimeLab
+	url = https://github.com/jpgough/JavaTimeLab.git
+[submodule "Java_Systems_for_testing/ColossalChests"]
+	path = Java_Systems_for_testing/ColossalChests
+	url = https://github.com/CyclopsMC/ColossalChests.git
+[submodule "Java_Systems_for_testing/minimal-j"]
+	path = Java_Systems_for_testing/minimal-j
+	url = https://github.com/BrunoEberhard/minimal-j.git
