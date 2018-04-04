@@ -1,0 +1,39 @@
+Kahn Java System files:
+
+Name: logback-extensions - Objects: 1509. Function: The Logback Extensions project provides community supported extensions to the Logback logging framework. 
+
+Name: javassit - Objects: 11584. Function: ava bytecode engineering toolkit http://www.javassist.org
+
+Name: californium - Objects: 28041. Function: No description provided
+
+Name: easymock - Objects: 17813. Function: EasyMock, makes mocking easier since 2001 http://easymock.org
+
+Name: hibernate-ogm - Objects: 74595. Function: Hibernate OGM - Domain model persistence for NoSQL datastores http://hibernate.org/ogm/
+
+Name: objenesis - Objects: 7587. Function: Okay, it's pretty easy to instantiate objects in Java through standard reflection. However there are many cases where you need to go beyond what reflection provides. For example, if there's no public constructor, you want to bypass the constructor code, or set final fields. There are numerous clever (but fiddly) approaches to getting around this… http://objenesis.org
+
+Name: karaf - Objects: 281655. Function: Mirror of Apache Karaf 
+
+Name: stitch-examples - Objects: 5621. Function:  MongoDB Stitch Examples 
+
+Name: react-native-node - Objects: 380. Function: Run a separate Node.js process behind a React Native app 
+
+Name: data-transfer-project - Objects: 15888. Function: The Data Transfer Project makes it easy for users to transfer their data between online services. We provide a common framework and ecosystem to accept contributions from service providers to enable seamless transfer of data into and out of their service. https://google.github.io/data-transfe…
+
+Name: BeesAndroid - Objects: 1960  Function: The project aims to help more Android engineers understand the Android system and master the Android system by providing a series of tools and methods. 
+
+
+Name: beanvalidation-tck - Objects: 13469. Function: Bean Validation TCK 
+
+Name: hamcrest-junit - Objects: 277. Function: Integration between Hamcrest and JUnit 
+
+Name: JavaHamcrest - Objects: 10649. Function: Java (and original) version of Hamcrest http://hamcrest.org/
+
+Name: cglib - Objects: 10791. Function: cglib - Byte Code Generation Library is high level API to generate and transform Java byte code. It is used by AOP, testing, data access frameworks to generate dynamic proxy objects and intercept field access. https://github.com/cglib/cglib/wiki
+
+
+
+
+
+
+
