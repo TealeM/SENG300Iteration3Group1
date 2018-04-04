@@ -196,6 +196,3 @@
 [submodule "Java_Systems_for_testing/apk-parser"]
 	path = Java_Systems_for_testing/apk-parser
 	url = https://github.com/hsiafan/apk-parser.git
-[submodule "Java_Systems_for_testing/17mon"]
-	path = Java_Systems_for_testing/17mon
-	url = https://github.com/17mon/java.git
