@@ -1,10 +1,11 @@
 # SENG300Iteration3Group1
 SENG300 Group Assignment - Iteration three.
 
-### Iteration 2 source code (Using Kyle's in another repo)
-
 ### Code
 Link to repo with code: https://github.com/kimgahyung/SENG300-iteration3.git
+
+### Systems Data Spreadsheet
+Link to systems spreadsheet: https://drive.google.com/open?id=1LyssiPEqBMrGzFTshuXoauHvUfq2h-ax
 
 ### Schedule
 ###### Sun Apr 1 - Wed Apr 4
