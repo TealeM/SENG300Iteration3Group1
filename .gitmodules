@@ -256,3 +256,42 @@
 [submodule "Java_Systems_for_testing/minimal-j"]
 	path = Java_Systems_for_testing/minimal-j
 	url = https://github.com/BrunoEberhard/minimal-j.git
+[submodule "Java_Systems_for_testing/Gibberish-Detector-Java"]
+	path = Java_Systems_for_testing/Gibberish-Detector-Java
+	url = https://github.com/paypal/Gibberish-Detector-Java.git
+[submodule "Java_Systems_for_testing/SmallEvo"]
+	path = Java_Systems_for_testing/SmallEvo
+	url = https://github.com/mring33621/SmallEvo.git
+[submodule "Java_Systems_for_testing/embedhttp"]
+	path = Java_Systems_for_testing/embedhttp
+	url = https://github.com/nikkiii/embedhttp.git
+[submodule "Java_Systems_for_testing/java-assertjext"]
+	path = Java_Systems_for_testing/java-assertjext
+	url = https://github.com/danhaywood/java-assertjext.git
+[submodule "Java_Systems_for_testing/Space_java"]
+	path = Java_Systems_for_testing/Space_java
+	url = https://github.com/jhajek/Space_java.git
+[submodule "Java_Systems_for_testing/Java-Twirk"]
+	path = Java_Systems_for_testing/Java-Twirk
+	url = https://github.com/Gikkman/Java-Twirk.git
+[submodule "Java_Systems_for_testing/pdfunlock"]
+	path = Java_Systems_for_testing/pdfunlock
+	url = https://github.com/kilburn/pdfunlock.git
+[submodule "Java_Systems_for_testing/jsrt"]
+	path = Java_Systems_for_testing/jsrt
+	url = https://github.com/fredyw/jsrt.git
+[submodule "Java_Systems_for_testing/EmailReplyParser"]
+	path = Java_Systems_for_testing/EmailReplyParser
+	url = https://github.com/Driftt/EmailReplyParser.git
+[submodule "Java_Systems_for_testing/java-chatroom"]
+	path = Java_Systems_for_testing/java-chatroom
+	url = https://github.com/18thstreetmike/java-chatroom.git
+[submodule "Java_Systems_for_testing/java-ARM-core"]
+	path = Java_Systems_for_testing/java-ARM-core
+	url = https://github.com/jawi/java-ARM-core.git
+[submodule "Java_Systems_for_testing/ET"]
+	path = Java_Systems_for_testing/ET
+	url = https://github.com/mscharhag/ET.git
+[submodule "Java_Systems_for_testing/SMSD"]
+	path = Java_Systems_for_testing/SMSD
+	url = https://github.com/asad/SMSD.git
