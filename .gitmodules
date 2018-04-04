@@ -295,3 +295,18 @@
 [submodule "Java_Systems_for_testing/SMSD"]
 	path = Java_Systems_for_testing/SMSD
 	url = https://github.com/asad/SMSD.git
+[submodule "Java_Systems_for_testing/BeesAndroid"]
+	path = Java_Systems_for_testing/BeesAndroid
+	url = https://github.com/BeesAndroid/BeesAndroid.git
+[submodule "Java_Systems_for_testing/beanvalidation-tck"]
+	path = Java_Systems_for_testing/beanvalidation-tck
+	url = https://github.com/beanvalidation/beanvalidation-tck.git
+[submodule "Java_Systems_for_testing/hamcrest-junit"]
+	path = Java_Systems_for_testing/hamcrest-junit
+	url = https://github.com/hamcrest/hamcrest-junit.git
+[submodule "Java_Systems_for_testing/JavaHamcrest"]
+	path = Java_Systems_for_testing/JavaHamcrest
+	url = https://github.com/hamcrest/JavaHamcrest.git
+[submodule "Java_Systems_for_testing/cglib"]
+	path = Java_Systems_for_testing/cglib
+	url = https://github.com/cglib/cglib.git
